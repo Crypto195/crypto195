@@ -1,6 +1,6 @@
 
 ## Hello! I'm Crypto<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## if you follow me a cookie in front of you 100% legit
+## and if you follow me a cookie will magically apear in front of you 100% legit (terms and conditions applied)
 ---
 
 ### Languages and Tools:
