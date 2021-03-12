@@ -1,6 +1,6 @@
 
 ## Hello! I'm Crypto<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## and if you follow me a cookie will magically apear in front of you 100% legit (terms and conditions applied)
+## and if you follow me a cookie will magically apear in front of you 100% legit
 ---
 
 ### Languages and Tools:
@@ -23,4 +23,4 @@ And more?
 
 ---
 
-[![My discord bot called Zeyron](https://top.gg/api/widget/802392600057217065.svg)](https://top.gg/bot/802392600057217065)
+[![My discord bot called DogeBot](https://top.gg/api/widget/802392600057217065.svg)](https://top.gg/bot/802392600057217065)
