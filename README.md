@@ -1,6 +1,6 @@
 
 ## Hello! I'm Crypto<img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-## and if you follow me a cookie will magically apear in front of you 100% legit
+## I'm a developer from India
 ---
 
 ### Languages and Tools:
